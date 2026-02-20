@@ -37,6 +37,12 @@ Used AI to draft and refine backend REST endpoints, validation flow, and error h
 - **Decision 3:** Disallowed updates for completed tasks
   - **Reasoning:** Preserves task integrity and enforces a clear business rule.
 
+- **Decision 4:** Added task priority enum with stricter due date rules
+  - **Reasoning:** High-priority tasks must be due within 7 days.
+
+- **Decision 5:** Sorted task list by due date with query control
+  - **Reasoning:** Default asc sort and optional `sortOrder=desc` for UX flexibility.
+
 ## Challenges Faced
 
 <!-- Optional: Describe any challenges encountered and how you overcame them -->
@@ -74,6 +80,7 @@ Ensuring consistent validation and error responses across endpoints; addressed b
 <!-- Any other information you'd like to share about your implementation -->
 
 Backend implemented as per requirements with clear validation and error handling.
+Added Winston request logging with execution time format and detailed validation errors.
 
 ---
 
