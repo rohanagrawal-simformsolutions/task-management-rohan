@@ -88,7 +88,7 @@ Added Winston request logging with execution time format and detailed validation
 
 <!-- Verify before submitting -->
 
-- [x] Code pushed to private GitHub repository
+- [x] Code pushed to public GitHub repository
 - [x] All mandatory requirements completed
 - [x] Code is tested and functional
 - [ ] README updated (if needed)
