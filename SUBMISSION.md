@@ -53,11 +53,11 @@ Ensuring consistent validation and error responses across endpoints; addressed b
 
 <!-- Optional: Approximate time spent on each phase -->
 
-- Planning & Setup: 15 minutes
-- Core Implementation: 60 minutes
-- Testing & Debugging: 20 minutes
+- Planning & Setup: 5 minutes
+- Core Implementation: 20 minutes
+- Testing & Debugging: 5 minutes
 - Additional Requirements (30-min mark): 10 minutes
-- Additional Requirements (45-min mark): 5 minutes
+- Additional Requirements (45-min mark): 15 minutes
 - Optional Challenge (if attempted): 0 minutes
 
 ## Optional Challenge
